@@ -1,0 +1,17 @@
+
+/* *********************************BURASI CSS ARIF BABA TARAFINDAN YAZILMIUŞTIR ccc ***************************** */
+
+body {
+    background-color: darkgrey;
+}
+.li2 {
+    text-transform: uppercase
+}
+ol {
+    text-align: justify;
+    color:brown;
+    font-size: 2ch;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Noto Sans Zanabazar Square', sans-serif;
+    font-family: 'Open Sans', sans-serif;;
+}
