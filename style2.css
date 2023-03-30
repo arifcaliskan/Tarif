@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500&family=Comfortaa:wght@300&family=Noto+Sans+Zanabazar+Square&family=Open+Sans:ital@1&display=swap');
+
+
+
+body {
+    margin: 0;
+    padding:0;
+    background-color: black;
+    color:white;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Noto Sans Zanabazar Square', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fs16 {
+    font-size: 16px;
+}
+.fs32 {
+    font-size: 32px;
+}
+.fs50 {
+    font-size: 50px;
+}
+.img-abt {
+    margin: 0;
+    padding: 0;
+    border: 5px solid cyan;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+header  {
+    display:block;
+    text-align:center ;
+    text-decoration: none;
+
+
+}
+header a {
+    align-items: center ;
+    padding-left: 2em;
+}
+.icon{
+    margin: 0;
+    padding: 0;
+    display:flex;
+    font-size: 27px;
+}
+.footer  {
+    padding: 3em;
+    background-color: bisque;
+    display:flex;
+    align-items:center;
+}
+
+.social {
+    padding: 2em;
+    display: inline-block;  
+}
+.socials {
+    align-items: center;
+}
+.nav a {
+    padding: 1em;
+    display: inline-block;
+    border: 3px grey solid;
+    border-radius: 0.5em;
+}
+.nav a:hover{
+    background-color: rgb(0, 255, 255);
+}
